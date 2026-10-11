@@ -128,4 +128,4 @@ The workbook includes **Region** and **Category** filters. They aren't active in
 
 ## Author
 
-[Your Name] · [GitHub](https://github.com/AyzusD)
+[Ayush Denzil Tirkey] · [GitHub](https://github.com/AyzusD)
