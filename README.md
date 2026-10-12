@@ -56,7 +56,7 @@ A sales analysis built in **Tableau**, covering four years of European retail or
 
 ## Chart 1: Monthly Sales & Profit Trend
 
-![Monthly Sales & Profit Trend](01-sales-profit-trend.png)
+![Monthly Sales & Profit Trend](images/01-sales-profit-trend.png)
 
 **Question it answers:** Is the business growing, and is profit keeping pace with sales?
 
@@ -88,7 +88,7 @@ A sales analysis built in **Tableau**, covering four years of European retail or
 
 ## Chart 2: Discount Size vs Profit by Region
 
-![Discount Size vs Profit by Region](02-discount-profit-map.png)
+![Discount Size vs Profit by Region](images/02-discount-profit-map.png)
 
 **Question it answers:** Where is discounting heaviest, and do those places make or lose money?
 
@@ -126,7 +126,7 @@ A sales analysis built in **Tableau**, covering four years of European retail or
 
 ## Chart 3: Profit by Sub-Category vs Average
 
-![Profit by Sub-Category vs Average](03-profit-by-subcategory.png)
+![Profit by Sub-Category vs Average](images/03-profit-by-subcategory.png)
 
 **Question it answers:** Which sub-categories earn more than average, and which fall short or lose money?
 
@@ -168,7 +168,7 @@ A sales analysis built in **Tableau**, covering four years of European retail or
 
 ## Chart 4: Profit Contribution by Sub-Category
 
-![Profit Contribution by Sub-Category](04-profit-contribution-bubbles.png)
+![Profit Contribution by Sub-Category](images/04-profit-contribution-bubbles.png)
 
 **Question it answers:** How much does each sub-category contribute to total profit?
 
